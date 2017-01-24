@@ -23,7 +23,7 @@ pois o mesmo converte os logs de binário para texto
 
 2. Chmando via aplicação Node.Js
 
-![screen shot]()https://github.com/paulocauca/logPowerCenter/blob/master/screen/sc2.PNG
+![screen shot](https://github.com/paulocauca/logPowerCenter/blob/master/screen/sc2.PNG)
 
 3. Filtrando erros ORA- e destacando para melhor visualização
 
